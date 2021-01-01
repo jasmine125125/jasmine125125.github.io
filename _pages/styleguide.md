@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: Portfolio
 permalink: /styleguide/
 image: 08.jpg
 ---
