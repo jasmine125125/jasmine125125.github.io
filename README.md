@@ -48,7 +48,7 @@ Table of Contents
 
 Check the theme in action [Demo](https://zolan-jekyll.netlify.app/)
 
-![Main page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-main-page.png?raw=true)
+![Main page preview](./images/zolan-main-page.png?raw=true)
 
 The post page would look like this:
 
