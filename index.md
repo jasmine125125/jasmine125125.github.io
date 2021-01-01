@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: 主页
 profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
@@ -10,5 +10,5 @@ profile_picture:
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  测试
 </p>
