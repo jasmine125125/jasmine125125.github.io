@@ -20,25 +20,27 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
+      value: yj460062420
       link: mailto:yourmail@domain.com
     - name: WeChat
-      value: YourWeChatUsername
+      value: yj460062420
       link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+    # - name: Twitter
+    #   link: http://twitter.com/YourTwitterUsername
+    #   username: "@YourTwitterUsername"
+    # - name: Facebook
+    #   link: http://facebook.com/YourFacebookUsername
+    # - name: LinkedIn
+    #   link: http://linkedin.com/in/YourLinkedInUsername
+    # - name: GitHub
+    #   link: http://github.com/YourGitHubUsername
+    # - name: Dribbble
+    #   link: https://dribbble.com/YourDribbbleUsername
+    # - name: RSS
+    #   link: /feed.xml
+    # - name : Address
+    #   value :
 
 # Build settings
 markdown: kramdown
