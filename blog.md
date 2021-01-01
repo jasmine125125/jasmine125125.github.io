@@ -1,8 +1,8 @@
 ---
-layout: 博客
-title: 博客
+layout: blog
+title: Blog
 slug: /blog
 ---
 
-博客测试
+This is an example of a "Blog" page, displaying a list of posts.
 <br />
