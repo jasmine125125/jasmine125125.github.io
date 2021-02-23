@@ -5,9 +5,6 @@ permalink: /about/
 image: zzz.jpeg
 ---
 
-杨静简历 <a href="/files/paper1.pdf" target="_blank">查看</a>
-
-***
 
 #### 教育背景：
 <small>2014.09-2019.06 西华大学  建筑学（本科） </small> 
