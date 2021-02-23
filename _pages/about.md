@@ -9,18 +9,28 @@ image: zzz.jpeg
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### 教育背景：
+<small>2014.09-2019.06 西华大学  建筑学（本科） </small> 
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+主修课程：建筑设计、公共建筑设计原理、建筑力学、建筑历史课程等
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+#### 实习经历：
+<small>2017.07-2017.09 成都天华西南建筑设计有限公司  实习生</small>
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+主要参与项目：龙湖时代天街、龙湖拉芳天街
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+<small>2018.07-2018.08    成都天华西南建筑设计有限公司    实习生</small>
+
+
+#### 工作经历：
+<small>2019.07-至今</small> 成都天华西南建筑设计有限公司    建筑师
+
+
+主要参与项目：昆明中海寰宇天下后期控制设计、眉山旭辉云樾天境方案设计、花样年崇州投标项目、朗基大邑农业学校二期会议中心立面设计、成都中港ccpk户型与立面设计、中铁建西派国樾方案设计、阳光城绵阳项目户型设计、阳光城宜宾投标设计、阳光城邛崃项目设计、大发双流项目强排、融信沙河项目强排
+
+
+#### 自我评价：
+专业知识扎实、对建筑设计与艺术方面有着浓厚的兴趣，对于建筑行业也抱有极大的热情。
+性格开朗乐观、待人真诚友善、抗压能力强
+有极强的责任心和上进心、团队荣誉感强
