@@ -5,7 +5,7 @@ permalink: /about/
 image: zzz.jpeg
 ---
 
-你好，我叫杨静，编不下去了，测试
+杨静简历 <a href="../_files/paper1.pdf" target="_blank">查看</a>
 
 ***
 
