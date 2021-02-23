@@ -5,7 +5,7 @@ permalink: /about/
 image: zzz.jpeg
 ---
 
-杨静简历 <a href="../_files/paper1.pdf" target="_blank">查看</a>
+杨静简历 <a href="/files/paper1.pdf" target="_blank">查看</a>
 
 ***
 
