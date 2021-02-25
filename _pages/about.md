@@ -7,7 +7,7 @@ image: zzz.jpeg
 
 
 
-<table><tr><td bgcolor=#B4B4B4><font size="4" color = #FFFFFF><b>教 育 背 景</b></font></td></tr></table>
+###<u>**教 育 背 景**</u>
 
 <small>2014.09-2019.06 西华大学  建筑学（本科） </small> 
 
@@ -19,7 +19,7 @@ image: zzz.jpeg
 - 建筑历史课程
 
 
-<table><tr><td bgcolor=#B4B4B4><font size="4" color = #FFFFFF><b>实 习 经 历</b></font></td></tr></table>
+###<u>**实 习 经 历**</u>
 
 <small>2017.07-2017.09 成都天华西南建筑设计有限公司  实习生</small>
 
@@ -31,7 +31,7 @@ image: zzz.jpeg
 <small>2018.07-2018.08    成都天华西南建筑设计有限公司    实习生</small>
 
 
-<table><tr><td bgcolor=#B4B4B4><font size="4" color = #FFFFFF><b>工 作 经 历</b></font></td></tr></table>
+###<u>**工 作 经 历**</u>
 
 <small>2019.07-至今  成都天华西南建筑设计有限公司    建筑师</small> 
 
@@ -51,7 +51,7 @@ image: zzz.jpeg
 - 融信沙河项目强排
 
 
-<table><tr><td bgcolor=#B4B4B4><font size="4" color = #FFFFFF><b>自 我 评 价</b></font></td></tr></table>
+###<u>**自 我 评 价**</u>
 
 专业知识扎实、对建筑设计与艺术方面有着浓厚的兴趣，对于建筑行业也抱有极大的热情。
 性格开朗乐观、待人真诚友善、抗压能力强
