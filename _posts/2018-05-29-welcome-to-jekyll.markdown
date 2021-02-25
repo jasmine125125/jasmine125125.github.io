@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  "中港CC PARK3"
-date:   2018-05-29 18:05:55 +0300
-image:  1.jpg
+title:  "中港CC PARK 3#地块项目"
+date:   2020-05-29 18:05:55 +0300
+image:  zhonggang.png
 ---
 
-![图片](/images/z.jpg)
 
+CC PARK是中港置业拟以国际级视野打造的“泛城东南门户地标性国际中央商业生活区”。
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+项目业态以“多样化商业集群-甲级写字楼-服务式公寓-高端品质住宅”为核心，构建多功能、现代化、综合性的城市多维空间。与万达广场、华润东湖等现有地产业态融合、互补，全面提升该片区在整个成都市区的综合竞争力，形成以产业集群效应拉动东湖片区乃至锦江区经济发展的高端城市综合体。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+定位为融合时尚、科技、潮流元素于一体的中国西南区域时尚旅游目的地；项目紧邻两大公园，东湖公园和沙河公园，区域环境优美；周边交通四通八达、地铁（6&8号线）上盖、医疗教育配套齐全。
+
+![图片](/images/zhonggang/z.jpg)
+
 
